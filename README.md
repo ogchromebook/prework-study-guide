@@ -1,4 +1,4 @@
-# <Sam's Prework Study Guide Webpage>
+# Sam's Prework Study Guide Webpage
 
 ## Description
 
